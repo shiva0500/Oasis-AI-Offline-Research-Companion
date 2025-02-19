@@ -1,0 +1,6 @@
+PyQt6
+faiss-cpu
+numpy
+requests
+sentence-transformers
+pypdf
